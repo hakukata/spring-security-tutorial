@@ -1,5 +1,7 @@
 # Spring Security Tutorial 《Spring Security 教程》
 
+> 本开源书 forked from [Spring Security 教程](https://github.com/waylau/spring-security-tutorial)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/spring-security-tutorial)，以便获得最新更新，谢谢！
+
 ![](images/spring-security-logo.jpg)
  
 Spring Security  Tutorial takes you to learn Spring Security  step by step with a large number of samples. There is also a GitBook version of the book: <http://www.gitbook.com/book/waylau/spring-security-tutorial>.
